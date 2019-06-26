@@ -1,0 +1,607 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{1169F584-4499-450B-A2FB-498EA5739258}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>
+    </StartupObject>
+    <RootNamespace>ReportDynamics</RootNamespace>
+    <AssemblyName>WindowsApplication</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DEMO REPORTDB.sql" />
+    <Content Include="hajji\Backup\howto_2005_datagridview_edit_text_changed.vbproj" />
+    <Content Include="hajji\Backup\My Project\Application.myapp" />
+    <Content Include="hajji\Database.sql" />
+    <Content Include="hajji\latest report cards.sql" />
+    <Content Include="hajji\reportcode.sql" />
+    <Content Include="hajji\reportreport.sql" />
+    <Content Include="hajji\Report_Cards.sln" />
+    <Content Include="hajji\Report_Cards\bin\Debug\app.publish\setup.exe" />
+    <Content Include="hajji\Report_Cards\bin\Debug\MySql.Data.dll" />
+    <Content Include="hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe" />
+    <Content Include="hajji\Report_Cards\bin\Debug\Orion_Report_Cards.pdb" />
+    <Content Include="hajji\Report_Cards\bin\Debug\Orion_Report_Cards.vshost.exe" />
+    <Content Include="hajji\Report_Cards\bin\Debug\Orion_Report_Cards.xml" />
+    <Content Include="hajji\Report_Cards\bin\Debug\Report_Cards.exe" />
+    <Content Include="hajji\Report_Cards\bin\Debug\Report_Cards.pdb" />
+    <Content Include="hajji\Report_Cards\bin\Debug\Report_Cards.xml" />
+    <Content Include="hajji\Report_Cards\My Project\Application.myapp" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.pdb" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.vbproj.FileListAbsolute.txt" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.xml" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.exe" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.pdb" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.vbproj.FileListAbsolute.txt" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.xml" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\TempPE\ALEVELARTS.vb.dll" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\TempPE\AlevelArtsGeneral.vb.dll" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\TempPE\AlevelGeneralArtsReport.vb.dll" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\TempPE\AlevelGeneraScienceReport.vb.dll" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\TempPE\alevelsinglesciencereport.vb.dll" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\TempPE\alevesingleartsreport.vb.dll" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\TempPE\classreport.vb.dll" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\TempPE\classreports.vb.dll" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\TempPE\ClassreportS3S4.vb.dll" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\TempPE\gradereport.vb.dll" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\TempPE\My Project.Resources.Designer.vb.dll" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\TempPE\personalreports.vb.dll" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\TempPE\S3S4classreport.vb.dll" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\TempPE\Single34.vb.dll" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\TempPE\SinglereportS3S4.vb.dll" />
+    <Content Include="hajji\Report_Cards\obj\x86\Debug\TempPE\singles1s2classreport.vb.dll" />
+    <Content Include="hajji\Report_Cards\obj\x86\Release\Report_Cards.vbproj.FileListAbsolute.txt" />
+    <Content Include="hajji\Report_Cards\obj\x86\Release\TempPE\My Project.Resources.Designer.vb.dll" />
+    <Content Include="hajji\Report_Cards\Orion_Report_Cards.vbproj" />
+    <Content Include="hajji\Report_Cards\Orion_Report_Cards.vbproj.user" />
+    <Content Include="hajji\Report_Cards\Resources\Actions-arrow-right-double-icon.png" />
+    <Content Include="hajji\Report_Cards\Resources\Actions-document-edit-icon1.png" />
+    <Content Include="hajji\Report_Cards\Resources\Actions-document-edit-icon11.png" />
+    <Content Include="hajji\Report_Cards\Resources\Actions-document-preview-archive-icon.png" />
+    <Content Include="hajji\Report_Cards\Resources\Actions-document-save-as-icon.png" />
+    <Content Include="hajji\Report_Cards\Resources\Actions-document-save-as-icon1.png" />
+    <Content Include="hajji\Report_Cards\Resources\Administrator-icon1.png" />
+    <Content Include="hajji\Report_Cards\Resources\App-login-manager-icon1.png" />
+    <Content Include="hajji\Report_Cards\Resources\Basic-Update-icon.png" />
+    <Content Include="hajji\Report_Cards\Resources\Button-Delete-icon.png" />
+    <Content Include="hajji\Report_Cards\Resources\edit-validated-icon.png" />
+    <Content Include="hajji\Report_Cards\Resources\edit-validated-icon1.png" />
+    <Content Include="hajji\Report_Cards\Resources\Floppy-Small-icon.png" />
+    <Content Include="hajji\Report_Cards\Resources\Floppy-Small-icon1.png" />
+    <Content Include="hajji\Report_Cards\Resources\login-icon.png" />
+    <Content Include="hajji\Report_Cards\Resources\Logo2.bmp" />
+    <Content Include="hajji\Report_Cards\Resources\Logo21.bmp" />
+    <Content Include="hajji\Report_Cards\Resources\Register-icon.png" />
+    <Content Include="hajji\Report_Cards\Resources\reports-stack-icon.png" />
+    <Content Include="hajji\Report_Cards\Resources\reports-stack-icon1.png" />
+    <Content Include="hajji\TEST BEST 8 DB.sql" />
+    <Content Include="hajji\UpgradeLog.XML" />
+    <Content Include="hajji\_UpgradeReport_Files\UpgradeReport.css" />
+    <Content Include="hajji\_UpgradeReport_Files\UpgradeReport.xslt" />
+    <Content Include="hajji\_UpgradeReport_Files\UpgradeReport_Minus.gif" />
+    <Content Include="hajji\_UpgradeReport_Files\UpgradeReport_Plus.gif" />
+    <Content Include="hajji\__RC db__.sql" />
+    <Content Include="mid 3[hist].txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="hajji\Backup\Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Backup\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Backup\My Project\Application.Designer.vb" />
+    <Compile Include="hajji\Backup\My Project\AssemblyInfo.vb" />
+    <Compile Include="hajji\Backup\My Project\Resources.Designer.vb" />
+    <Compile Include="hajji\Backup\My Project\Settings.Designer.vb" />
+    <Compile Include="hajji\Report_Cards\ALEVELARTS.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\ALEVELARTS1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ALEVELARTS.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\AlevelGeneraScienceReport.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\AlevelGeneraScienceReport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AlevelGeneraScienceReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\alevelsinglesciencereport.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\alevelsinglesciencereport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>alevelsinglesciencereport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\ALEVELSINGLESTUDENTSARTSREPORT.Designer.vb">
+      <DependentUpon>ALEVELSINGLESTUDENTSARTSREPORT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\ALEVELSINGLESTUDENTSARTSREPORT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\ALEVELSINGLESTUDENTSSCIENCEREPORT.Designer.vb">
+      <DependentUpon>ALEVELSINGLESTUDENTSSCIENCEREPORT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\ALEVELSINGLESTUDENTSSCIENCEREPORT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\AlevelTotalpoints.Designer.vb">
+      <DependentUpon>AlevelTotalpoints.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\AlevelTotalpoints.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\alevesingleartsreport.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\alevesingleartsreport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>alevesingleartsreport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\ClassReport.Designer.vb">
+      <DependentUpon>ClassReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\ClassReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\ClassreportALevelSciences.Designer.vb">
+      <DependentUpon>ClassreportALevelSciences.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\ClassreportALevelSciences.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\classreports.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\classreports1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>classreports.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\EditMarks.Designer.vb">
+      <DependentUpon>EditMarks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\EditMarks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\FinalRank.Designer.vb">
+      <DependentUpon>FinalRank.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\FinalRank.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\FmMain.Designer.vb">
+      <DependentUpon>FmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\FmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\GeneralArtsReport.Designer.vb">
+      <DependentUpon>GeneralArtsReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\GeneralArtsReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\Generalclassreports3s4.Designer.vb">
+      <DependentUpon>Generalclassreports3s4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\Generalclassreports3s4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\gradereport.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\gradereport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>gradereport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\ManageDates.Designer.vb">
+      <DependentUpon>ManageDates.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\ManageDates.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\My Project\Application.Designer.vb" />
+    <Compile Include="hajji\Report_Cards\My Project\AssemblyInfo.vb" />
+    <Compile Include="hajji\Report_Cards\My Project\Resources.Designer.vb" />
+    <Compile Include="hajji\Report_Cards\My Project\Settings.Designer.vb" />
+    <Compile Include="hajji\Report_Cards\OverRollPerformance.Show.Designer.vb">
+      <DependentUpon>OverRollPerformance.Show.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\OverRollPerformance.Show.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\PersonalReport.Designer.vb">
+      <DependentUpon>PersonalReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\PersonalReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\personalreports.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\personalreports1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>personalreports.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\Promotestudents.Designer.vb">
+      <DependentUpon>Promotestudents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\Promotestudents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\RankStudents.Designer.vb">
+      <DependentUpon>RankStudents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\RankStudents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\RecordMarks.Designer.vb">
+      <DependentUpon>RecordMarks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\RecordMarks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\RecordMarksALevel.Designer.vb">
+      <DependentUpon>RecordMarksALevel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\RecordMarksALevel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\Regclasses.Designer.vb">
+      <DependentUpon>Regclasses.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\Regclasses.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\Regstudents.Designer.vb">
+      <DependentUpon>Regstudents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\Regstudents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\Regsubjects.Designer.vb">
+      <DependentUpon>Regsubjects.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\Regsubjects.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\Regteachers.Designer.vb">
+      <DependentUpon>Regteachers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\Regteachers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\Single34.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\Single341.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Single34.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\SINGLECLASSREPORTS1S2.Designer.vb">
+      <DependentUpon>SINGLECLASSREPORTS1S2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\SINGLECLASSREPORTS1S2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\SINGLECLASSREPORTS3S4.Designer.vb">
+      <DependentUpon>SINGLECLASSREPORTS3S4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\SINGLECLASSREPORTS3S4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\singles1s2classreport.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\singles1s2classreport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>singles1s2classreport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\Testbest8.Designer.vb">
+      <DependentUpon>Testbest8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hajji\Report_Cards\Testbest8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="hajji\Backup\Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Backup\My Project\Resources.resx" />
+    <EmbeddedResource Include="hajji\Report_Cards\ALEVELARTS.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ALEVELARTS1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\AlevelGeneraScienceReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>AlevelGeneraScienceReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\alevelsinglesciencereport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>alevelsinglesciencereport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\ALEVELSINGLESTUDENTSARTSREPORT.resx">
+      <DependentUpon>ALEVELSINGLESTUDENTSARTSREPORT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\ALEVELSINGLESTUDENTSSCIENCEREPORT.resx">
+      <DependentUpon>ALEVELSINGLESTUDENTSSCIENCEREPORT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\AlevelTotalpoints.resx">
+      <DependentUpon>AlevelTotalpoints.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\alevesingleartsreport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>alevesingleartsreport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\ClassReport.resx">
+      <DependentUpon>ClassReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\ClassreportALevelSciences.resx">
+      <DependentUpon>ClassreportALevelSciences.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\classreports.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>classreports1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\EditMarks.resx">
+      <DependentUpon>EditMarks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\FinalRank.resx">
+      <DependentUpon>FinalRank.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\FmMain.resx">
+      <DependentUpon>FmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\GeneralArtsReport.resx">
+      <DependentUpon>GeneralArtsReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\Generalclassreports3s4.resx">
+      <DependentUpon>Generalclassreports3s4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\gradereport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>gradereport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\ManageDates.resx">
+      <DependentUpon>ManageDates.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\My Project\Resources.resx" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSARTSREPORT.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.AlevelTotalpoints.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassReport.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassreportALevelSciences.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.FinalRank.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.FmMain.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.GeneralArtsReport.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.Generalclassreports3s4.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.ManageDates.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.RankStudents.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarksALevel.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS1S2.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS3S4.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.Testbest8.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Release\Report_Cards.EditMarks.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Release\Report_Cards.Form2.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Release\Report_Cards.Login.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Release\Report_Cards.OverRollPerformance.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Release\Report_Cards.Promotestudents.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Release\Report_Cards.RankStudents.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Release\Report_Cards.RecordMarks.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Release\Report_Cards.Regclasses.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Release\Report_Cards.Regstudents.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Release\Report_Cards.Regsubjects.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Release\Report_Cards.Regteachers.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\obj\x86\Release\Report_Cards.Resources.resources" />
+    <EmbeddedResource Include="hajji\Report_Cards\OverRollPerformance.Show.resx">
+      <DependentUpon>OverRollPerformance.Show.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\PersonalReport.resx">
+      <DependentUpon>PersonalReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\personalreports.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>personalreports1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\Promotestudents.resx">
+      <DependentUpon>Promotestudents.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\RankStudents.resx">
+      <DependentUpon>RankStudents.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\RecordMarks.resx">
+      <DependentUpon>RecordMarks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\RecordMarksALevel.resx">
+      <DependentUpon>RecordMarksALevel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\Regclasses.resx">
+      <DependentUpon>Regclasses.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\Regstudents.resx">
+      <DependentUpon>Regstudents.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\Regsubjects.resx">
+      <DependentUpon>Regsubjects.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\Regteachers.resx">
+      <DependentUpon>Regteachers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\Single34.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Single341.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\SINGLECLASSREPORTS1S2.resx">
+      <DependentUpon>SINGLECLASSREPORTS1S2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\SINGLECLASSREPORTS3S4.resx">
+      <DependentUpon>SINGLECLASSREPORTS3S4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\singles1s2classreport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>singles1s2classreport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hajji\Report_Cards\Testbest8.resx">
+      <DependentUpon>Testbest8.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="hajji\Backup\My Project\Settings.settings" />
+    <None Include="hajji\Report_Cards\App.config" />
+    <None Include="hajji\Report_Cards\bin\Debug\app.publish\Application Files\Orion_Report_Cards_1_0_0_0\MySql.Data.dll.deploy" />
+    <None Include="hajji\Report_Cards\bin\Debug\app.publish\Application Files\Orion_Report_Cards_1_0_0_0\Orion_Report_Cards.exe.config.deploy" />
+    <None Include="hajji\Report_Cards\bin\Debug\app.publish\Application Files\Orion_Report_Cards_1_0_0_0\Orion_Report_Cards.exe.deploy" />
+    <None Include="hajji\Report_Cards\bin\Debug\app.publish\Application Files\Orion_Report_Cards_1_0_0_0\Orion_Report_Cards.exe.manifest" />
+    <None Include="hajji\Report_Cards\bin\Debug\app.publish\Orion_Report_Cards.application" />
+    <None Include="hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.config" />
+    <None Include="hajji\Report_Cards\bin\Debug\Orion_Report_Cards.vshost.exe.config" />
+    <None Include="hajji\Report_Cards\bin\Debug\Orion_Report_Cards.vshost.exe.manifest" />
+    <None Include="hajji\Report_Cards\bin\Debug\Report_Cards.exe.config" />
+    <None Include="hajji\Report_Cards\bin\Debug\Report_Cards.vshost.exe.config" />
+    <None Include="hajji\Report_Cards\bin\Debug\Report_Cards.vshost.exe.manifest" />
+    <None Include="hajji\Report_Cards\My Project\Settings.settings" />
+    <None Include="hajji\Report_Cards\obj\x86\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="hajji\Report_Cards\obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog" />
+    <None Include="hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog" />
+    <None Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.vbproj.GenerateResource.Cache" />
+    <None Include="hajji\Report_Cards\obj\x86\Debug\Report_Cards.vbprojResolveAssemblyReference.cache" />
+    <None Include="hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache" />
+    <None Include="hajji\Report_Cards\obj\x86\Release\build.force" />
+    <None Include="hajji\Report_Cards\obj\x86\Release\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="hajji\Report_Cards\obj\x86\Release\GenerateResource.read.1.tlog" />
+    <None Include="hajji\Report_Cards\obj\x86\Release\GenerateResource.write.1.tlog" />
+    <None Include="hajji\Report_Cards\Orion_Report_Cards_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="hajji\Report_Cards\bin\Release\" />
+    <Folder Include="My Project\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

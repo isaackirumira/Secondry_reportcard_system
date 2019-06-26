@@ -1,0 +1,660 @@
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\bin\Debug\Orion_Report_Cards.exe.config
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\bin\Debug\Orion_Report_Cards.exe
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\bin\Debug\Orion_Report_Cards.pdb
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\bin\Debug\Orion_Report_Cards.xml
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.AlevelTotalpoints.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.Best8.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.ClassReport.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.FinalRank.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.FmMain.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.ManageDates.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.RankStudents.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Orion_Report_Cards.xml
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Orion_Report_Cards.pdb
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.Generalclassreports3s4.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS1S2.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS3S4.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.Testbest8.resources
+C:\Users\pizza\Desktop\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.config
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.xml
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.pdb
+C:\Users\pizza\Desktop\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe
+C:\Users\pizza\Desktop\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.pdb
+C:\Users\pizza\Desktop\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.xml
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Report_Cards.AlevelTotalpoints.resources
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassReport.resources
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FinalRank.resources
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FmMain.resources
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Generalclassreports3s4.resources
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ManageDates.resources
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RankStudents.resources
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS1S2.resources
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS3S4.resources
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Testbest8.resources
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pizza\Desktop\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.config
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.xml
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.pdb
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.pdb
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.xml
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.AlevelTotalpoints.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassReport.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FinalRank.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FmMain.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Generalclassreports3s4.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ManageDates.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RankStudents.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS1S2.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS3S4.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Testbest8.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarksALevel.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassreportALevelSciences.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.GeneralArtsReport.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSARTSREPORT.resources
+C:\Users\pizza\Desktop\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+D:\Hajji system\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.config
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.xml
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.pdb
+D:\Hajji system\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe
+D:\Hajji system\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.pdb
+D:\Hajji system\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.xml
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSARTSREPORT.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.AlevelTotalpoints.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassReport.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassreportALevelSciences.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FinalRank.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FmMain.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.GeneralArtsReport.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Generalclassreports3s4.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ManageDates.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RankStudents.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarksALevel.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS1S2.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS3S4.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Testbest8.resources
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Hajji system\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.config
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.xml
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.pdb
+D:\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe
+D:\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.pdb
+D:\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.xml
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSARTSREPORT.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.AlevelTotalpoints.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassReport.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassreportALevelSciences.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FinalRank.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FmMain.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.GeneralArtsReport.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Generalclassreports3s4.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ManageDates.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RankStudents.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarksALevel.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS1S2.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS3S4.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Testbest8.resources
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Hajji system2\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.config
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.xml
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.pdb
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.pdb
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.xml
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSARTSREPORT.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.AlevelTotalpoints.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassReport.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassreportALevelSciences.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FinalRank.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FmMain.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.GeneralArtsReport.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Generalclassreports3s4.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ManageDates.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RankStudents.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarksALevel.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS1S2.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS3S4.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Testbest8.resources
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.importexcel.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.config
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.xml
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.pdb
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.manifest
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.application
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.pdb
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.xml
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSARTSREPORT.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.AlevelTotalpoints.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassReport.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassreportALevelSciences.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FinalRank.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FmMain.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.GeneralArtsReport.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Generalclassreports3s4.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.importexcel.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ManageDates.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RankStudents.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarksALevel.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS1S2.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS3S4.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Testbest8.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe.manifest
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.application
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.marksheets1s2.resources
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.marksheets3s4.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.config
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.xml
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.pdb
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.manifest
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.application
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.pdb
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.xml
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSARTSREPORT.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.AlevelTotalpoints.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassReport.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassreportALevelSciences.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FinalRank.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FmMain.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.GeneralArtsReport.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Generalclassreports3s4.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.importexcel.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ManageDates.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.marksheets1s2.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.marksheets3s4.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RankStudents.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarksALevel.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS1S2.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS3S4.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Testbest8.resources
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe.manifest
+C:\Users\Pizza\Desktop\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.application
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.config
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.xml
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.pdb
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.manifest
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.application
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.pdb
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.xml
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.vbprojResolveAssemblyReference.cache
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSARTSREPORT.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.AlevelTotalpoints.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassReport.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassreportALevelSciences.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FinalRank.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FmMain.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.GeneralArtsReport.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Generalclassreports3s4.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.importexcel.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ManageDates.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.marksheets1s2.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.marksheets3s4.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RankStudents.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarksALevel.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS1S2.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS3S4.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Testbest8.resources
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.vbproj.GenerateResource.Cache
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe.manifest
+E:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.application
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.config
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.xml
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.pdb
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.manifest
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.application
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.pdb
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.xml
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.vbprojResolveAssemblyReference.cache
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSARTSREPORT.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.AlevelTotalpoints.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassReport.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassreportALevelSciences.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FinalRank.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FmMain.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.GeneralArtsReport.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Generalclassreports3s4.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.importexcel.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ManageDates.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.marksheets1s2.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.marksheets3s4.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RankStudents.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarksALevel.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS1S2.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS3S4.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Testbest8.resources
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.vbproj.GenerateResource.Cache
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe.manifest
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.application
+D:\isaac\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.config
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.xml
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.pdb
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.manifest
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.application
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.pdb
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.xml
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSARTSREPORT.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.AlevelTotalpoints.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassReport.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassreportALevelSciences.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FinalRank.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FmMain.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.GeneralArtsReport.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Generalclassreports3s4.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.importexcel.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ManageDates.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.marksheets1s2.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.marksheets3s4.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RankStudents.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarksALevel.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS1S2.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS3S4.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Testbest8.resources
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe.manifest
+C:\Users\KKOLO\Desktop\sod\Luyanzi befor e changing\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.application
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.config
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.xml
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.pdb
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.manifest
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.application
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.pdb
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.xml
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.vbprojResolveAssemblyReference.cache
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSARTSREPORT.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.AlevelTotalpoints.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassReport.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassreportALevelSciences.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FinalRank.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FmMain.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.GeneralArtsReport.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Generalclassreports3s4.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.importexcel.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ManageDates.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.marksheets1s2.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.marksheets3s4.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RankStudents.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarksALevel.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS1S2.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS3S4.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Testbest8.resources
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.vbproj.GenerateResource.Cache
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe.manifest
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.application
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.config
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.xml
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.pdb
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.manifest
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.application
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.pdb
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.xml
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSARTSREPORT.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.AlevelTotalpoints.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassReport.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassreportALevelSciences.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FinalRank.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FmMain.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.GeneralArtsReport.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Generalclassreports3s4.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.importexcel.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ManageDates.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.marksheets1s2.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.marksheets3s4.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RankStudents.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarksALevel.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS1S2.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS3S4.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Testbest8.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe.manifest
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.application
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.MIDREPORTSARTS.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.MIDREPORTSSCIENCIES.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.62.tlog
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.GENERALMAEKSHEETS3ANDS4.resources
+C:\Users\isaac\Desktop\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.GENERALMARKSHEETS1ANDS2.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.config
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.xml
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.pdb
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.manifest
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.application
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.pdb
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.xml
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.vbprojResolveAssemblyReference.cache
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSARTSREPORT.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.AlevelTotalpoints.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.analysis.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassReport.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassreportALevelSciences.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FinalRank.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FmMain.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.GeneralArtsReport.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Generalclassreports3s4.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.GENERALMAEKSHEETS3ANDS4.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.GENERALMARKSHEETS1ANDS2.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.importexcel.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ManageDates.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.marksheets1s2.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.marksheets3s4.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.MIDREPORTSARTS.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.MIDREPORTSSCIENCIES.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RankStudents.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarksALevel.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS1S2.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS3S4.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Testbest8.resources
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.vbproj.GenerateResource.Cache
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe.manifest
+E:\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.application
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.config
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.xml
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.pdb
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.manifest
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.application
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.pdb
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.xml
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.AlevelGridmarksheet.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSARTSREPORT.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.AlevelTotalpoints.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.analysis.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassReport.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassreportALevelSciences.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FinalRank.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FmMain.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.GeneralArtsReport.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Generalclassreports3s4.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.GENERALMAEKSHEETS3ANDS4.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.GENERALMARKSHEETS1ANDS2.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.importexcel.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ManageDates.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.marksheets1s2.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.marksheets3s4.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.MIDREPORTSARTS.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.MIDREPORTSSCIENCIES.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RankStudents.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarksALevel.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS1S2.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS3S4.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Testbest8.resources
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.62.tlog
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe.manifest
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.application
+C:\Users\isaac\Desktop\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.vbproj.ResolveComReference.cache
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.config
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe.manifest
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.application
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.exe
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.pdb
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\bin\Debug\Orion_Report_Cards.xml
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.vbproj.ResolveComReference.cache
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.AlevelGridmarksheet.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSARTSREPORT.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.AlevelTotalpoints.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.analysis.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassReport.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ClassreportALevelSciences.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FinalRank.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.FmMain.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.GeneralArtsReport.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Generalclassreports3s4.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.GENERALMAEKSHEETS3ANDS4.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.GENERALMARKSHEETS1ANDS2.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.importexcel.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.ManageDates.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.marksheets1s2.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.marksheets3s4.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.MIDREPORTSARTS.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.MIDREPORTSSCIENCIES.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RankStudents.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarksALevel.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS1S2.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.SINGLECLASSREPORTS3S4.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.Testbest8.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.UpdateDivision.resources
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe.manifest
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.application
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.exe
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.xml
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Orion_Report_Cards.pdb
+C:\Users\isaac\Desktop\nanziga\report\Luyanzi\LUYANZI COLLEGE\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\hajji\Report_Cards\obj\x86\Debug\Report_Cards.GetTotalpointseachstudent.resources

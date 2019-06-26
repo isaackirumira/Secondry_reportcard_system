@@ -1,0 +1,15 @@
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Release\Report_Cards.EditMarks.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Release\Report_Cards.Login.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Release\Report_Cards.Form2.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Release\Report_Cards.Resources.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Release\Report_Cards.OverRollPerformance.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Release\Report_Cards.Promotestudents.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Release\Report_Cards.RankStudents.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Release\Report_Cards.RecordMarks.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Release\Report_Cards.Regclasses.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Release\Report_Cards.Regstudents.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Release\Report_Cards.Regsubjects.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Release\Report_Cards.Regteachers.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Release\GenerateResource.write.1.tlog

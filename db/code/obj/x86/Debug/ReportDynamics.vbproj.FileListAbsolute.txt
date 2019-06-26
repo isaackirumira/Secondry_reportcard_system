@@ -1,0 +1,34 @@
+D:\Hajji system2\bin\Debug\WindowsApplication.exe.config
+D:\Hajji system2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.Form1.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.Resources.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.ALEVELSINGLESTUDENTSARTSREPORT.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.AlevelTotalpoints.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.ClassReport.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.ClassreportALevelSciences.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.EditMarks.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.FinalRank.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.FmMain.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.Login.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.Form2.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.GeneralArtsReport.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.Generalclassreports3s4.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.ManageDates.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.OverRollPerformance.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.PersonalReport.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.Promotestudents.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.RankStudents.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.RecordMarks.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.RecordMarksALevel.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.Regclasses.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.Regstudents.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.Regsubjects.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.Regteachers.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.SINGLECLASSREPORTS1S2.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.SINGLECLASSREPORTS3S4.resources
+D:\Hajji system2\obj\x86\Debug\ReportDynamics.Testbest8.resources
+D:\Hajji system2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Hajji system2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pizza\Desktop\LUYANZI\Hajji system2\Hajji system2\bin\Debug\WindowsApplication.exe.config
+D:\LUYANZI COLLEGE REPORT CARD BACK UP\AIR FIELD CODE\SERVER MACHINE\Luyanzi\LUYANZI\Hajji system2\Hajji system2\bin\Debug\WindowsApplication.exe.config

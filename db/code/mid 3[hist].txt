@@ -1,0 +1,15 @@
+
+
+  If (txt_subject.Text.Length > 0) Then
+
+            If (txt_subject.Text = "HISTORY") Then
+
+                P3MID.ReadOnly = True
+
+            ElseIf (txt_subject.Text <> "HISTORY") Then
+
+                P3MID.ReadOnly = False
+
+
+            End If
+

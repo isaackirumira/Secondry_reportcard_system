@@ -1,0 +1,164 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Report_Cards
+</name>
+</assembly>
+<members>
+<member name="F:Report_Cards.EditMarks.v1">
+ olevel grading
+
+</member><member name="F:Report_Cards.EditMarks.a1">
+ olevel grading ends
+ alevel grading
+
+</member><member name="F:Report_Cards.EditMarks.v10">
+ alevel grading ends
+
+</member><member name="P:Report_Cards.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.Actions_arrow_right_double_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.Actions_arrow_right_double_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.Actions_arrow_right_double_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.Actions_document_edit_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.Actions_document_edit_icon11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.Actions_document_edit_icon12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.Actions_document_preview_archive_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.Actions_document_save_as_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.Administrator_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.App_login_manager_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.App_login_manager_icon11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.Basic_Update_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.Basic_Update_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.Basic_Update_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.Button_Delete_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.Button_Delete_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.edit_validated_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.edit_validated_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.Floppy_Small_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.Floppy_Small_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.Floppy_Small_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.login_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.login_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.Logo2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.Logo21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.Register_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.Register_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.reports_stack_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.reports_stack_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Report_Cards.My.Resources.Resources.reports_stack_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Report_Cards.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:Report_Cards.RecordMarks.v1">
+ olevel grading
+
+</member><member name="F:Report_Cards.RecordMarks.a1">
+ olevel grading ends
+ alevel grading
+
+</member><member name="F:Report_Cards.RecordMarks.v10">
+ alevel grading ends
+
+</member>
+</members>
+</doc>

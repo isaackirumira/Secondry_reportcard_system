@@ -1,0 +1,191 @@
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\Projects\Report_Cards\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\Projects\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\Projects\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\Projects\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\Projects\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\Projects\Report_Cards\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\Projects\Report_Cards\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\Projects\Report_Cards\Report_Cards\bin\Debug\Report_Cards.exe
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\Projects\Report_Cards\Report_Cards\bin\Debug\Report_Cards.pdb
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\Projects\Report_Cards\Report_Cards\bin\Debug\Report_Cards.xml
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\Projects\Report_Cards\Report_Cards\bin\Debug\MySql.Data.dll
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\Projects\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.exe
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\Projects\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.xml
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\Projects\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.pdb
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\Projects\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\Projects\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\Projects\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\Projects\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\Projects\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\StartPages\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.exe
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\StartPages\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.xml
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\StartPages\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.pdb
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\StartPages\Report_Cards\Report_Cards\bin\Debug\Report_Cards.exe
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\StartPages\Report_Cards\Report_Cards\bin\Debug\Report_Cards.pdb
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\StartPages\Report_Cards\Report_Cards\bin\Debug\Report_Cards.xml
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\StartPages\Report_Cards\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\StartPages\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\StartPages\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\StartPages\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\StartPages\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\StartPages\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\StartPages\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\StartPages\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\StartPages\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\StartPages\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\StartPages\Report_Cards\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\StartPages\Report_Cards\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\StartPages\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources
+C:\Users\SSEGAWA\Documents\Visual Studio 2010\StartPages\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.exe
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.xml
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.pdb
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\bin\Debug\Report_Cards.exe
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\bin\Debug\Report_Cards.pdb
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\bin\Debug\Report_Cards.xml
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.RankStudents.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.FinalRank.resources
+C:\Users\pizza\Desktop\Report_Cards\Report_Cards\obj\x86\Debug\Report_Cards.Best8.resources
+C:\Users\pizza\Desktop\xxxx\Report_Cards\obj\x86\Debug\Report_Cards.exe
+C:\Users\pizza\Desktop\xxxx\Report_Cards\obj\x86\Debug\Report_Cards.xml
+C:\Users\pizza\Desktop\xxxx\Report_Cards\obj\x86\Debug\Report_Cards.pdb
+C:\Users\pizza\Desktop\xxxx\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pizza\Desktop\xxxx\Report_Cards\obj\x86\Debug\Report_Cards.Best8.resources
+C:\Users\pizza\Desktop\xxxx\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources
+C:\Users\pizza\Desktop\xxxx\Report_Cards\obj\x86\Debug\Report_Cards.FinalRank.resources
+C:\Users\pizza\Desktop\xxxx\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+C:\Users\pizza\Desktop\xxxx\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+C:\Users\pizza\Desktop\xxxx\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+C:\Users\pizza\Desktop\xxxx\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources
+C:\Users\pizza\Desktop\xxxx\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+C:\Users\pizza\Desktop\xxxx\Report_Cards\obj\x86\Debug\Report_Cards.RankStudents.resources
+C:\Users\pizza\Desktop\xxxx\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+C:\Users\pizza\Desktop\xxxx\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+C:\Users\pizza\Desktop\xxxx\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+C:\Users\pizza\Desktop\xxxx\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+C:\Users\pizza\Desktop\xxxx\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+C:\Users\pizza\Desktop\xxxx\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pizza\Desktop\xxxx\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pizza\Desktop\xxxx\Report_Cards\bin\Debug\Report_Cards.exe
+C:\Users\pizza\Desktop\xxxx\Report_Cards\bin\Debug\Report_Cards.pdb
+C:\Users\pizza\Desktop\xxxx\Report_Cards\bin\Debug\Report_Cards.xml
+C:\Users\pizza\Desktop\xxxx\Report_Cards\obj\x86\Debug\Report_Cards.ManageDates.resources
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\obj\x86\Debug\Report_Cards.exe
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\obj\x86\Debug\Report_Cards.xml
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\obj\x86\Debug\Report_Cards.pdb
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\bin\Debug\Report_Cards.exe.config
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\bin\Debug\Report_Cards.exe
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\bin\Debug\Report_Cards.pdb
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\bin\Debug\Report_Cards.xml
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\obj\x86\Debug\Report_Cards.vbprojResolveAssemblyReference.cache
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\obj\x86\Debug\Report_Cards.Best8.resources
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\obj\x86\Debug\Report_Cards.ClassReport.resources
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\obj\x86\Debug\Report_Cards.FinalRank.resources
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\obj\x86\Debug\Report_Cards.ManageDates.resources
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\obj\x86\Debug\Report_Cards.RankStudents.resources
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+C:\Users\HASSAN\Desktop\IMG\Report_cards\Report_Cards\obj\x86\Debug\Report_Cards.vbproj.GenerateResource.Cache
+C:\Users\pizza\Desktop\xxx2\Report_Cards\bin\Debug\Report_Cards.exe.config
+C:\Users\pizza\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.exe
+C:\Users\pizza\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.xml
+C:\Users\pizza\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.pdb
+C:\Users\pizza\Desktop\xxx2\Report_Cards\bin\Debug\Report_Cards.exe
+C:\Users\pizza\Desktop\xxx2\Report_Cards\bin\Debug\Report_Cards.pdb
+C:\Users\pizza\Desktop\xxx2\Report_Cards\bin\Debug\Report_Cards.xml
+C:\Users\pizza\Desktop\xxx2\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pizza\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.Best8.resources
+C:\Users\pizza\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.ClassReport.resources
+C:\Users\pizza\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources
+C:\Users\pizza\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.FinalRank.resources
+C:\Users\pizza\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+C:\Users\pizza\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+C:\Users\pizza\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.ManageDates.resources
+C:\Users\pizza\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+C:\Users\pizza\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources
+C:\Users\pizza\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+C:\Users\pizza\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.RankStudents.resources
+C:\Users\pizza\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+C:\Users\pizza\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+C:\Users\pizza\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+C:\Users\pizza\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+C:\Users\pizza\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+C:\Users\pizza\Desktop\xxx2\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pizza\Desktop\xxx2\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pizza\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.AlevelTotalpoints.resources
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\bin\Debug\Report_Cards.exe.config
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.exe
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.xml
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.pdb
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\bin\Debug\Report_Cards.exe
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\bin\Debug\Report_Cards.pdb
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\bin\Debug\Report_Cards.xml
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.vbprojResolveAssemblyReference.cache
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.AlevelTotalpoints.resources
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.Best8.resources
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.ClassReport.resources
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.FinalRank.resources
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.ManageDates.resources
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.RankStudents.resources
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+C:\Users\Fawsiyo\Desktop\xxx2\Report_Cards\obj\x86\Debug\Report_Cards.vbproj.GenerateResource.Cache
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.AlevelTotalpoints.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.Best8.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.ClassReport.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.EditMarks.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.FinalRank.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.Login.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.Form2.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.ManageDates.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.Resources.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.OverRollPerformance.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.Promotestudents.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.RankStudents.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.RecordMarks.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.Regclasses.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.Regstudents.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.Regsubjects.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.Regteachers.resources
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\bin\Debug\Report_Cards.exe.config
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\bin\Debug\Report_Cards.exe
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\bin\Debug\Report_Cards.pdb
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\bin\Debug\Report_Cards.xml
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.exe
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.xml
+C:\Users\pizza\Desktop\JAM REP\Report_Cards\obj\x86\Debug\Report_Cards.pdb
